@@ -1,4 +1,9 @@
+# Idea production files
+out/
+
+
 *.class
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
